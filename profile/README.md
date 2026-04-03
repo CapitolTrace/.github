@@ -44,10 +44,11 @@ Capitol Trace aggregates **25+ public government data sources** into connected, 
 
 | | Repo | Description |
 |:--|:-----|:------------|
-| 🏛️ | **capitoltrace** | Monorepo — React frontend, Supabase backend, 15 edge functions, 80+ pages |
-| 📦 | *MCP Server* | Coming soon — `@capitoltrace/mcp-server` on npm, 12 tools for AI assistants |
-| 🔌 | *API Client Libraries* | Coming soon — TypeScript and Python SDK for the Capitol Trace API |
-| 🏴 | *NatSec Module* | Coming soon — Standalone national security intelligence feed aggregator |
+| 🏛️ | **[capitoltrace](https://github.com/CapitolTrace/capitoltrace)** | Monorepo — React frontend, Supabase backend, 15 edge functions, 80+ pages |
+| 🖥️ | **[capitoltrace-ui](https://github.com/CapitolTrace/capitoltrace-ui)** | Open-source React frontend — 199 components, 80+ pages of civic intelligence |
+| 📦 | **[congress-api](https://github.com/CapitolTrace/congress-api)** | TypeScript client for the Congress.gov API — typed, auto-paginated, zero deps |
+| 🔍 | **[govwatch](https://github.com/CapitolTrace/govwatch)** | Open-source health monitor for 20+ government APIs — CLI + library |
+| 🤖 | *MCP Server* | Coming soon — `@capitoltrace/mcp-server` on npm, 12 tools for AI assistants |
 
 ---
 
