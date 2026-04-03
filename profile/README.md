@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capitoltrace.com/og-image.png" alt="Capitol Trace" width="600" />
+  <img src="https://capitoltrace.com/og-default.jpg" alt="Capitol Trace" width="600" />
 </p>
 
 <h1 align="center">Capitol Trace</h1>
